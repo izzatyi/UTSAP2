@@ -60,7 +60,7 @@ int main()
     }
     else 
     {
-        nilai_dalam_huruf = "-"; //jika inputan yang diberikan selain dari seleksi diatas, maka program akan menampilkan "-"
+        nilai_dalam_huruf = "-"; //jika inputan yang diberikan lebih dari 100, maka program akan menampilkan "-"
     }
 
     system("CLS"); // dibawah ini untuk menampilkan hasil akhir seperti yang diminta
